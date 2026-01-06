@@ -6,6 +6,7 @@ The projects focus on:
 - Artificial Intelligence education
 - Teaching programming concepts (Python)
 - Student attendance and grading systems
+- AI-assisted web development for educational platforms
 
 All projects were designed with real educational environments in mind.
 
@@ -49,6 +50,25 @@ An educational system that uses face recognition technology to manage student at
 
 ---
 
+### 4️⃣ Web Projects (Lovable AI)
+A collection of educational web-based projects created using AI-assisted web development tools (Lovable).
+
+These projects demonstrate how modern AI tools can be used to rapidly build educational web applications with clear structure and user-friendly interfaces.
+
+**Key aspects:**
+- AI-assisted web development
+- Educational-focused web interfaces
+- Rapid prototyping for learning platforms
+
+**Example use cases:**
+- Educational landing pages  
+- Simple learning web applications  
+- Online content delivery for students  
+
+📁 Folder: `Web_Projects_Lovable`
+
+---
+
 ## 🎯 Target Use
 These projects are suitable for:
 - Schools
@@ -61,4 +81,3 @@ These projects are suitable for:
 ## 👤 Author
 **Abdalah Beshary**  
 Educational Technology & Programming Instructor
-
