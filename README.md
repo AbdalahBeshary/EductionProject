@@ -1,2 +1,64 @@
-# EductionProject
-Educational project
+# Educational Projects Portfolio
+
+This repository contains a collection of educational technology projects developed to support teaching, learning, and academic administration.
+
+The projects focus on:
+- Artificial Intelligence education
+- Teaching programming concepts (Python)
+- Student attendance and grading systems
+
+All projects were designed with real educational environments in mind.
+
+---
+
+## 📌 Projects Overview
+
+### 1️⃣ AI Educational Presentations
+A set of educational presentations designed to explain Artificial Intelligence concepts in a clear and practical way.
+
+**Topics include:**
+- Introduction to Artificial Intelligence
+- AI in daily life and education
+- Practical examples suitable for students
+
+📁 Folder: `AI_Presentations`
+
+---
+
+### 2️⃣ Python Learning Mobile Application
+A mobile-based educational application designed to teach Python programming to students.
+
+**Key features:**
+- Step-by-step Python explanations
+- Beginner-friendly content
+- Educational approach focused on understanding, not memorization
+
+📁 Folder: `Python_Learning_Mobile_App`
+
+---
+
+### 3️⃣ Face Recognition Attendance & Grading System
+An educational system that uses face recognition technology to manage student attendance and academic records.
+
+**Main features:**
+- Face recognition–based attendance
+- Student grades management
+- Designed for schools and educational centers
+
+📁 Folder: `Face_Recognition_Attendance_System`
+
+---
+
+## 🎯 Target Use
+These projects are suitable for:
+- Schools
+- Educational centers
+- Training institutions
+- STEM and technology-focused programs
+
+---
+
+## 👤 Author
+**Abdalah Beshary**  
+Educational Technology & Programming Instructor
+
